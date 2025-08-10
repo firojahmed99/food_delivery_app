@@ -1,4 +1,4 @@
-# delivery_app
+# FoodieFastTrack – Food Delivery App
 
 A new Flutter project.
 
